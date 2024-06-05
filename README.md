@@ -8,7 +8,7 @@ PosePerfect is a real-time posture detection and repetition counting application
 
 ## 🛠️ System Diagrams
 
-![diagram (1)](https://github.com/DhruvSharma19/mlapp/assets/112254552/5667cd3e-fb11-4678-8cb5-1528eea2be59)
+![mermaid-diagram-2024-06-05-102340](https://github.com/DhruvSharma19/mlapp/assets/112254552/8eaaea7e-e22a-490f-8832-d8e222c70f18)
 ![diagram](https://github.com/DhruvSharma19/mlapp/assets/112254552/cb3836f8-d310-427b-af0d-80da19d62202)
 
 ## 🌟 Key Features
