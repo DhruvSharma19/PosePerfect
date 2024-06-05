@@ -66,15 +66,15 @@ Make sure you have Python installed. You can download it from [Python's official
 
 ## 🤝 Contributions
 
-We welcome contributions to FlowLink! To contribute:
+We welcome contributions to PosePerfect! To contribute:
 
 1. **Fork the Repository**:
    Click the "Fork" button at the top right corner of the repository page.
 
 2. **Clone Your Fork**:
    ```bash
-   git clone https://github.com/your-username/FlowLink.git
-   cd FlowLink
+   git clone https://github.com/your-username/PosePerfect.git
+   cd PosePerfect
    ```
 
 3. **Create a New Branch**:
